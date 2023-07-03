@@ -21,7 +21,7 @@ I'm E0AA, a passionate and enthusiastic software engineer with a love for coding
 ## 📈 GitHub Stats
 
 <p align="center">    
-    <a href="https://github.com/NickKipshidze">
+    <a href="https://github.com/E0AA">
         <img src="https://github-readme-stats.vercel.app/api?username=E0AA&show_icons=true&theme=react">
         <img src="https://github-readme-stats.vercel.app/api?username=E0AA&show_icons=true&theme=react">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E0AA&layout=compact&theme=react">
