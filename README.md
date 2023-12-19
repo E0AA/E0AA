@@ -1,9 +1,5 @@
 # Hi there! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=E0AA&color=blue)
-![Followers](https://img.shields.io/github/followers/E0AA?label=Followers&style=react)
-![Stars](https://img.shields.io/github/stars/E0AA?label=Stars&style=react)
-
 I'm E0AA, a passionate and enthusiastic software engineer with a love for coding and problem-solving. Welcome to my GitHub profile!
 
 ## 🌱 About Me
@@ -22,7 +18,6 @@ I'm E0AA, a passionate and enthusiastic software engineer with a love for coding
 
 <p align="center">    
     <a href="https://github.com/E0AA">
-        <img src="https://github-readme-stats.vercel.app/api?username=E0AA&show_icons=true&theme=react">
         <img src="https://github-readme-stats.vercel.app/api?username=E0AA&show_icons=true&theme=react">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E0AA&layout=compact&theme=react">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=E0AA&theme=react">
